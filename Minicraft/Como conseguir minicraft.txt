@@ -1,0 +1,2 @@
+Descarge el archivo JavaSetup8u361 y luego abrelo y instalelo y lugo meta en una carpeta el archivo minicraft del github
+y haz doble clic a minicraft para empezar
